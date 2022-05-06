@@ -1,3 +1,3 @@
 # Projet SIG
-##Anne SIMON
-### L3 GEO
+Anne SiMON
+### L3 GEOGRAPHIE
